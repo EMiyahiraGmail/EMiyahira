@@ -6,7 +6,7 @@ I'm EMiyahira, a developer since 1992.
 
 [![Linkedin: EMiyahira=Dev](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emiyahira-dev-29626a191/)](https://www.linkedin.com/in/emiyahira-dev-29626a191/)
 
-email: developer.emiyahira@gmail.com
+email: eduardo.sf.miyahira@gmail.com
 ____
 
 ## ⚡ Technologies
